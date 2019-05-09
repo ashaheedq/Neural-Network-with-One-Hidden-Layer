@@ -3,8 +3,6 @@
   <img src="http://www.cs.bu.edu/fac/betke/images/bu-logo.gif"/>
 </p>
 
-[![](http://www.cs.bu.edu/fac/betke/images/bu-logo.gif)](http://www.bu.edu)
-
 Neural Network with One Hidden Layer
 ====================================
 
